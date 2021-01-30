@@ -10,14 +10,14 @@ This project aim to explore the basics of image processing(e.g. local feature ex
 ## Language
 * Python 3.7
 * Libraries:
- * `matplotlib` for image processing
- * `mpl_toolkits` for 3D plotting
+   * `matplotlib` for image processing
+   * `mpl_toolkits` for 3D plotting
 ## Examples of Use
 Input image pairs:
-[Left Image](.\image_pairs\8_im0.png)
-[Right Image](.\image_pairs\8_im1.png)
+[Left Image](image_pairs/8_im0.png)
+[Right Image](image_pairs/8_im1.png)
 Output disparity map:
-[Disparity Map](.\test_outputs\H.PNG)
+[Disparity Map](test_outputs/H.PNG)
 ## Project Status:
 This is a learning project, and was not developed to be used for real-time depth perception in practice. At its current state, it only works on the given set of image pairs and requires tuning for different configurations.
 The project was no longer being developed as the learning goal was met.
