@@ -18,6 +18,7 @@ Input image pairs:
 ![Right Image](image_pairs/8_im1.png)
 
 Output disparity map:
+
 On the disparity map, brighter color means closer objects/edges/pixels.
 ![Disparity Map](test_outputs/H.PNG)
 ## Project Status:
